@@ -11,6 +11,10 @@ spam emails will be identied in the future.
 
 ## Data exploration
 - Frequencies of the classes
+![alt text](reports/FrequenciesClasses.png)
+- Total Word count in emails spam vs not spam
+![alt text](reports/wordoccuranceSpamVsNotSpam.png)
+- Frequencies of the words
 
 ## Data preprocessing
 - Converted word count into TF-IDF
