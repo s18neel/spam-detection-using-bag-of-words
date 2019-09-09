@@ -20,6 +20,13 @@ spam emails will be identied in the future.
 - Converted word count into TF-IDF
 - Generated synthetic data using upsampling to balance the dataset
 
+## Training
+- Logistic Regression
+- Random Forest
+
+## Result
+Could achieved a high recall of 99.8% using Random Forest
+
 ## Requirements
 - Python (>=3.6)
 - Seaborn
