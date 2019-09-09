@@ -9,6 +9,15 @@ emails being classified incorrectly. In addition, the company wants to make a st
 about the effectiveness of the filter on future emails, i.e., what percentage of incoming
 spam emails will be identied in the future.
 
+## Requirements
+- Python (>=3.6)
+- Seaborn
+- Matplotlib
+- Pandas
+- Juypter notebook
+- Numpy
+- Pickle
+
 ## Data exploration
 - Frequencies of the classes
 ![alt text](reports/FrequenciesClasses.png)
@@ -26,12 +35,3 @@ spam emails will be identied in the future.
 
 ## Result
 Could achieved a high recall of 99.8% using Random Forest
-
-## Requirements
-- Python (>=3.6)
-- Seaborn
-- Matplotlib
-- Pandas
-- Juypter notebook
-- Numpy
-- Pickle
