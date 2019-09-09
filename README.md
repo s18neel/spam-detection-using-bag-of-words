@@ -9,10 +9,10 @@ emails being classified incorrectly. In addition, the company wants to make a st
 about the effectiveness of the filter on future emails, i.e., what percentage of incoming
 spam emails will be identied in the future.
 
-# Data exploration
+## Data exploration
 - Frequencies of the classes
 
-# Data preprocessing
+## Data preprocessing
 - Converted word count into TF-IDF
 - Generated synthetic data using upsampling to balance the dataset
 
